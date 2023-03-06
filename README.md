@@ -1,4 +1,5 @@
 # Axes-Metaverse-fee-statistics-bot
+https://github.com/elizaveta-chizhova/Axes-Metaverse-fee-statistics-bot/blob/main/Axes%2C%20fee%20%2B%20treasury%20analytics.ipynb
 
 This is a script for Axes Metaverse Play-to-Earn game (https://axes.io/) which processes transactions on the BSC blockchain and reports the fees statistics through the telegram bot
 
